@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "piwish.html"
+status = 200
